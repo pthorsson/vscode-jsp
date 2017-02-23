@@ -21,10 +21,11 @@
             {
                 "id": "jsp",
                 "aliases": [
-                    "jstl",
-                    "JSTL",
+                    "Java Server Pages",
                     "jsp",
-                    "JSP"
+                    "JSP",
+                    "jstl",
+                    "JSTL"
                 ],
                 "extensions": [
                     ".tag",
